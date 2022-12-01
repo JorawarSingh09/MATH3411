@@ -1,1 +1,13 @@
 code made for 3411 quizes
+
+
+
+U_M_finder find the units in Z_m and gives you phi(m)
+
+entropy_calculator gives you H_r(S)
+
+Markov_entropy gives you the markov entropy
+
+Find_primitive_roots gives you the primitive roots
+
+psuedoprime checks if N is a pseudoprime base to a
